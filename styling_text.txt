@@ -1,0 +1,9 @@
+html {
+    background-color: white;
+    padding: 10px;
+    border-left: solid;
+
+}
+
+
+
